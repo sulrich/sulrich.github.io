@@ -1,6 +1,6 @@
 steve ulrich ([sulrich@botwerks.org](mailto:sulrich@botwerks.org))
 
-### additional contact info
+**additional contact info**
 
 ```
        email: sulrich@botwerks.org
@@ -9,10 +9,9 @@ gtalk/jabber: sulrich@botwerks.org
     yahoo im: sulrich
      twitter: @sulrich
       github: @sulrich
-     app.net: @sulrich
 ```
 
-### pgp key details
+**pgp key details**
 
 ```
     pub   1024D/133BFAFC 2000-11-21
@@ -21,7 +20,6 @@ gtalk/jabber: sulrich@botwerks.org
     uid                  steve ulrich <sulrich@botwerks.net>
     uid                  steve ulrich <sulrich@botwerks.com>
     uid                  [jpeg image of size 8187]
-    uid                  steve ulrich <sulrich@cisco.com>
     sub   2048g/4B254EF9 2000-11-21
 ```
 
