@@ -1,0 +1,69 @@
+baseurl = "http://sulrich.github.io"
+title = "steve ulrich"
+theme = "hello-friend-ng"
+languagecode = "en-us"
+defaultcontentlanguage = "en"
+
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "dork. (minneapolis, mn)"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "landing page for steve ulrich"
+  keywords = "homepage, blog"
+  images = [""]
+
+  [[params.social]]
+    name = "email"
+    url = "mailtl:sulrich@botwerks.org"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/sulrich"
+  [[params.social]]
+    name = "mastodon"
+    url = "https://mspsocial.net/@sulrich"
+  [[params.social]]
+    name = "strava"
+    url = "https://strava.com/athletes/stevilbot"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/sulrich"
+  [[params.social]]
+    name = "reddit"
+    url = "https://twitter.com/sulrich"
+  [[params.social]]
+    name = "discogs"
+    url = "https://discogs.com/user/sulrich"
+  [[params.social]]
+    name = "rss"
+    url = "https://botwerks.net/index.xml"
+
+# [taxonomies]
+#     category = "blog"
+#     tag      = "tags"
+#     series   = "series"
+
+[languages]
+  [languages.en]
+    title = "steve ulrich"
+    subtitle = "dork. (minneapolis, mn)"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    # readOtherPosts = "Read other posts"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "blog"
+    url        = "https://botwerks.net"
