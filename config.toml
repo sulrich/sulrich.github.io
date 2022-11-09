@@ -43,7 +43,7 @@ defaultcontentlanguage = "en"
     url = "https://twitter.com/sulrich"
   [[params.social]]
     name = "reddit"
-    url = "https://twitter.com/sulrich"
+    url = "https://reddit.com/u/stevilbot"
   [[params.social]]
     name = "discogs"
     url = "https://discogs.com/user/sulrich"
