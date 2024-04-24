@@ -34,7 +34,7 @@ defaultcontentlanguage = "en"
     url = "https://github.com/sulrich"
   [[params.social]]
     name = "mastodon"
-    url = "https://mspsocial.net/@sulrich"
+    url = "https://botwerks.social/@sulrich"
   [[params.social]]
     name = "strava"
     url = "https://strava.com/athletes/stevilbot"
